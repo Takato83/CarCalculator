@@ -1,0 +1,31 @@
+Michigan Blue        - 00274c 
+Michigan Maize       - ffcb05
+
+Support Colors
+
+Neutral and Muted Colors
+Umma Tan             - cfc096
+Burton Tower Beige   - 9b9a6d
+The Rock Gray        - 989c97
+Angell Hall Ash      - a79d96
+Law Quad Stone       - 655a52
+Puma Black           - C100 M79 Y44 K93 & PMS Black 6
+Hill Brown           - 7a121c
+LSA Orange           - cc6600
+Archway Ivy          - 7e732f
+Rachham Roof Green   - 83b2a8
+Canham Pool Blue     - 587abc
+Matthaeu Violet      - 575294
+
+Metallic Color
+Diag M Metallic      - PMS 872
+
+Bright Colors
+Tappan Red           - C8 M92 Y100 K33 & PMS 484
+Ross School Orange   - C0 M71 Y100 K3 & PMS 1595
+Wave Field Green     - C14 M6 Y100 K24 & PMS 398
+Taubman Teal         - C81 M0 Y39 K0 & MPS 326
+Arboretum Blue       - C88 M50 Y0 K0 & PMS 660
+Ann Arbor Amethyst   - C72 M99 Y0 K3 & PMS 2603
+
+Source: https://umdearborn.edu/communications-marketing/brand-identity-guidelines-material/colors

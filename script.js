@@ -14,9 +14,9 @@ console.log(maxAmpsText);
 console.log(theoSizeText);
 console.log(fuseSizeText);
 
-const max_amps_start = "Max Amps =";
-const theo_size_start = "Theoretical Size =";
-const fuse_size_start = "Fuse Size =";
+const max_amps_start = "Max Amps = ";
+const theo_size_start = "Theoretical Size = ";
+const fuse_size_start = "Fuse Size = ";
 
 const calcBtn = document.querySelector("#calc-btn");
 
